@@ -5,28 +5,25 @@ It determines whether the device is inside or outside a predefined geofence and 
 
 Files Included:
 
-geofence_tracker.ino → Main code for ESP8266
+- geofence_tracker.ino → Main code for ESP8266
 
-Results → Screenshots and hardware images
+- Results → Screenshots and hardware images
 
-README.md → Project description
+- README.md → Project description
 
 Hardware Setup:
 
-ESP8266 (NodeMCU)
+- ESP8266 (NodeMCU)
 
-NEO-6M GPS module
+- NEO-6M GPS module
 
-Jumper wires and power supply
+- Jumper wires and power supply
 
 Results:
 
-Wi-Fi Connecting
-
-Inside Geofence
-
-Outside Geofence
-
-Hardware Model
+- Wi-Fi Connecting
+- Inside Geofence
+- Outside Geofence
+- Hardware Model
 
 Screenshot images are available in the results folder.
