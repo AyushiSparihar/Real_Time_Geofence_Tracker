@@ -13,7 +13,9 @@ Hardware Setup:
 
 - ESP8266 (NodeMCU)
 - NEO-6M GPS module
-- Jumper wires and power supply
+- TP4056 charging module
+- 900 mAh Li-ion battery
+- Jumper wires
 
 Results:
 
