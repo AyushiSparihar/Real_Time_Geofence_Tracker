@@ -6,7 +6,9 @@ It determines whether the device is inside or outside a predefined geofence and 
 Files Included:
 
 geofence_tracker.ino → Main code for ESP8266
+
 Results → Screenshots and hardware images
+
 README.md → Project description
 
 Hardware Setup:
