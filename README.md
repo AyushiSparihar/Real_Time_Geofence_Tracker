@@ -12,15 +12,21 @@ Results → Screenshots and hardware images
 README.md → Project description
 
 Hardware Setup:
+
 ESP8266 (NodeMCU)
+
 NEO-6M GPS module
+
 Jumper wires and power supply
 
 Results:
 
 Wi-Fi Connecting
+
 Inside Geofence
+
 Outside Geofence
+
 Hardware Model
 
 Screenshot images are available in the results folder.
