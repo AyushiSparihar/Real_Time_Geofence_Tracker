@@ -4,10 +4,11 @@ Hardware Setup:
 
 The hardware setup consists of:
 
-NodeMCU ESP8266 microcontroller
-NEO-6M GPS module
-TP4056 charging module
-900 mAh Li-ion battery
+- NodeMCU ESP8266 microcontroller
+- NEO-6M GPS module
+- TP4056 charging module
+- 900 mAh Li-ion battery
+- Jumper Wires
 
 ![Hardware Setup](hardware_model.png)
 
