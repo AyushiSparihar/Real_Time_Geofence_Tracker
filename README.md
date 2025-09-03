@@ -1,4 +1,4 @@
-Geofence Tracker
+REAl TIME GEOFENCE TRACKER
 
 This project is a GPS-based Geofence Tracker using ESP8266 (NodeMCU) and NEO-6M GPS module.
 It determines whether the device is inside or outside a predefined geofence and displays the status on a local web server.
